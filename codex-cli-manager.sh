@@ -6,7 +6,7 @@
 #   bash codex-cli-manager.sh
 #
 # 功能：
-# - 启动后默认检索当前服务器 Codex 安装情况。
+# - 启动后默认检索当前服务器 Codex 安装情  况。
 # - 根据是否已安装自动推荐“安装”或“更新”。
 # - 支持安装 / 更新 Codex CLI。
 # - 支持写入 OpenAI-compatible 中转配置。
